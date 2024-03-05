@@ -4,3 +4,5 @@
 *.iml
 *.snapshot
 *.tgz
+
+qdrant_data

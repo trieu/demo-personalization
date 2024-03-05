@@ -1,4 +1,4 @@
-# Food Discovery with Qdrant
+# Food Discovery with Qdrant AND LEO CDP
 
 ## Online version <a href="https://replit.com/@qdrant/food-discovery-ai"><img align="right" src="https://replit.com/badge/github/qdrant/demo-food-discovery" alt="Run on Repl.it"></a>
 
